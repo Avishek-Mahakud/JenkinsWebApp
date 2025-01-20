@@ -29,7 +29,7 @@
     </main>
 
     <footer>
-        <p>&copy; 2025 [Your Company Name]. All rights reserved.</p>
+        <p>&copy; 2025 [Your Company Name]. All rights reserved. Thank you</p>
     </footer>
 </body>
 </html>
